@@ -15,7 +15,7 @@ Hello! My name is **LimJaeWoo**, and I study Web and BlockChain Dev.
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 
-##### ✨ Technologies
+#### ✨ Technologies
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
