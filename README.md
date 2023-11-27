@@ -3,7 +3,8 @@
 
 ### ✨ About Me
 
-Hello! My name is **LimJaeWoo**, and I study Web and BlockChain Dev.
+Hello! My name is **LimJaeWoo**, and I study **Web** and **BlockChain** **Dev**.
+****I dream of becoming the best IT educator in Korea.****
 
 #### ✨ Languages
 
